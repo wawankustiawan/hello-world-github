@@ -2,6 +2,10 @@
 This is my first project on github and i am exploring this github repository.
 Thank you.
 
+# Hi ... I am Wawan. I am in Github to learn coding collaboration using github repository.
+This is my first project on github and i am exploring this github repository.
+Thank you.
+
 
 # Welcome to GitHub
 
